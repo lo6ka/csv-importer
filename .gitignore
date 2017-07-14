@@ -1,0 +1,7 @@
+node_modules
+.idea
+debag.log
+*.log
+.sass-cache
+bower_components
+uploads

@@ -1,0 +1,3 @@
+{
+  "ignore": ["client/*", "public/*", "webpack.config.js", "Gulpfile.js", "scripts"]
+}
